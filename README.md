@@ -3,8 +3,7 @@ Best Practice for troubleshooting AWS Database Migration Service (DMS) tasks.
 
 # Basic Checks:
 
-![image](https://user-images.githubusercontent.com/82545117/163823421-cc8c1779-398c-4147-beec-0a5fa78b1cbd.png)
-
+![DMS_Troubleshooting_Workflow_customer-Basic Check](https://user-images.githubusercontent.com/82545117/163837984-3222627e-0954-47fe-9baa-d91c2cea3a11.jpg)
 
 # DMS Task Failure Troubleshooting
 
