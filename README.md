@@ -17,3 +17,6 @@ Best Practice for troubleshooting AWS Database Migration Service (DMS) tasks.
 # Slow Ongoing Replication
 
 ![DMS_Troubleshooting_Workflow_customer-CDC - Tuning](https://user-images.githubusercontent.com/82545117/163832403-37105132-58dd-431b-99d4-1f1c973fe5e1.jpg)
+
+https://aws.amazon.com/premiumsupport/knowledge-center/dms-high-source-latency/
+https://aws.amazon.com/premiumsupport/knowledge-center/dms-high-target-latency/
