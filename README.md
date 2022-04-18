@@ -10,7 +10,9 @@ Best Practice for troubleshooting AWS Database Migration Service (DMS) tasks.
 ![image](https://user-images.githubusercontent.com/82545117/163823525-87e842d1-8661-449d-bd43-ee5cde1f025d.png)
 
 https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html
+
 https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Troubleshooting.html
+
 https://aws.amazon.com/premiumsupport/knowledge-center/dms-enable-debug-logging/
 
 # Slow Migration - Initial Load
